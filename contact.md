@@ -19,7 +19,4 @@ is_contact: true
 
 ---
 
-## Social
 
-1. [Twitter](https://twitter.com/ZhirongChen11)
-2. [Instagram](https://instagram.com/zhirongshu?igshid=ZDdkNTZiNTM=)
