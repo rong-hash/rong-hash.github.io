@@ -5,7 +5,9 @@ is_contact: true
 
 * Email: [zhirong4@illinois.edu](mailto:zhirong4@illinois.edu)
 
-* Phone: [+1-4479021253](tel:+1-4479021253)
+* Phone: [+1-4479021253](tel:+1-4479021253)\
+
+* Github: [rong-hash](https://github.com/rong-hash)
 
 ---
 
@@ -35,3 +37,5 @@ is_contact: true
 > Security, Chess Enthusiast
 >
 > [Web Link](https://erkaiyublog.github.io/)
+
+
