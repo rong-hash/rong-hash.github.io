@@ -29,11 +29,11 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 ## Honors
 
-- First-class Scholarship of Zhejiang University (*Top 3%*) * 2 (2021, 2022)
+- First-class Scholarship of Zhejiang University * 2 (2021, 2022)
 
-- Scholarship from the government of Zhejiang Province (*Top 3%*) * 2 (2021, 2022)
+- Scholarship from the government of Zhejiang Province * 2 (2021, 2022)
 
-- ZJUI Academic Scholarship - Second Prize (*Top 3%*) * 2 (2021, 2022)
+- ZJUI Academic Scholarship - Second Prize * 2 (2021, 2022)
 
 - Outstanding Students of Zhejiang University * 2 (2021, 2022)
 
