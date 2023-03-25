@@ -19,9 +19,9 @@ nav:
  - name: "Resume"
    link: "resume.pdf"
  - name: "Project"
-   link: "project"
    link: "zinix"
    link: "crimemap"
+   link: "project"
  - name: "Contact"
    link: "contact"
 
