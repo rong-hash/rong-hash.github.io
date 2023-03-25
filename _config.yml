@@ -12,7 +12,7 @@ footer_url: "https://github.com/rong-hash/rong-hash.github.io"
 footer_text: "Page design by Zhirong Chen"
 
 favicon: true
-favicon_location: "favicon.ico"
+favicon_location: "img/favicon.ico"
 
 sass:
     style: compressed
