@@ -1,6 +1,6 @@
 title: Researcher
 url: "https://rong-hash.github.io"
-baseurl: "/researcher"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/rong-hash"
+footer_url: "https://github.com/rong-hash/rong-hash.github.io"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
