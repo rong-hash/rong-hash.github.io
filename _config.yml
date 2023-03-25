@@ -3,7 +3,7 @@ url: "https://rong-hash.github.io"
 baseurl: ""
 
 markdown: kramdown
-ins_logo: "./Illinois_Block_I.png"
+# ins_logo: "./Illinois_Block_I.png"
 
 tracking_id: #
 
