@@ -4,9 +4,9 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="me.jpg" width="300" height="229" >
+<img class="profile-picture" src="me.jpg" >
 
-Hi! I am a junior year student of B.E. Computer Engineering at University of Illinois at Urbana-Champaign, USA (GPA: 4/4). I also have a Electrical and Computer Engineering double degree at Zhejiang University (GPA: 3.92/4), China.
+Hi! I am a junior year student of B.E. Computer Engineering at University of Illinois at Urbana-Champaign, USA (GPA: 4/4). I also have an Electrical and Computer Engineering degree at Zhejiang University (GPA: 3.92/4), China.
 
 
 
@@ -18,23 +18,23 @@ I am always looking for opportunities to collaborate with other researchers in r
 
 
 ## Skills
-Skill | Capability
---- | ---
-Programming Languages | Python(proficient), C(proficient), C++, X86, SQL, JavaScript, SystemVerilog
-Tool | Pytorch, Sklearn, Quartus, react, Latex, PLINK
-Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
+Skill                   | Capability
+------                  | ------
+Programming Languages   | Python(proficient), C(proficient), C++, X86, SQL, JavaScript, SystemVerilog
+Tool                    | Pytorch, Sklearn, Quartus, react, Latex, PLINK
+Language                | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 
 
 ## Honors
 
-- First-class Scholarship of Zhejiang University (*Top 3%*) $ \times $ 2 (2021, 2022)
+- First-class Scholarship of Zhejiang University (*Top 3%*) * 2 (2021, 2022)
 
-- Scholarship from the government of Zhejiang Province (*Top 3%*) $ \times $ 2 (2021, 2022)
+- Scholarship from the government of Zhejiang Province (*Top 3%*) * 2 (2021, 2022)
 
-- ZJUI Academic Scholarship - Second Prize (*Top 3%*) $ \times $ 2 (2021, 2022)
+- ZJUI Academic Scholarship - Second Prize (*Top 3%*) * 2 (2021, 2022)
 
-- Outstanding Students of Zhejiang University $ \times $ 2 (2021, 2022)
+- Outstanding Students of Zhejiang University * 2 (2021, 2022)
 
 - Outstanding Individual in Community Survice of Zhejiang University (2021)
 

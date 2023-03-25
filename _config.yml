@@ -16,14 +16,13 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: ""
  - name: "Resume"
    link: "resume.pdf"
  - name: "Project"
    link: "project"
  - name: "Contact"
    link: "contact"
+ - link: "zinix"
 
 
 
