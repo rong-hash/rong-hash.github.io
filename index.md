@@ -12,7 +12,7 @@ Hi! I am a junior year student of B.E. Computer Engineering at University of Ill
 
 ## Research Interest
 
-I am experienced in bioinformatics and have previously conducted research on tooth segmentation in 3-dimensional intraoral mesh scans using unsupervised learning under the supervision of [Prof. Zuozhu Liu](https://person.zju.edu.cn/en/lzz) in ZJU-UIUC Institute. Currently, I am focused on identifying influential SNP markers for Alzheimer's disease underthe supervision of [Prof. Haohan Wang](https://haohanwang.github.io/) in UIUC. As a researcher in the medical field, I am keenly aware of the importance of trustworthy AI and am also interested in the area of machine learning security.
+I am experienced in bioinformatics and have previously conducted research on tooth segmentation in 3-dimensional intraoral mesh scans using unsupervised learning under the instruction of [Prof. Zuozhu Liu](https://person.zju.edu.cn/en/lzz) in ZJU-UIUC Institute. Currently, I am focused on identifying influential SNP markers for Alzheimer's disease under the supervision of [Prof. Haohan Wang](https://haohanwang.github.io/) in UIUC. As a researcher in the medical field, I am keenly aware of the importance of trustworthy AI and am also interested in the area of machine learning security.
 
 I am always looking for opportunities to collaborate with other researchers in related fields. If you are interested in collaborating on a project related to bioinformatics, machine learning security, or medical AI, please do not hesitate to contact me.
 

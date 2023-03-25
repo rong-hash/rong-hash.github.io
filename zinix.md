@@ -352,10 +352,11 @@ Zhirong Chen, Ziyuan Chen, Zicheng Ma, Shihua Zeng
 </tr>
 </tbody>
 </table>
-
+<br>
 
 ## Work Distribution
 
+<br>
 <table>
     <tr> <td rowspan="2"> <b>Checkpoint</b> </td> <td rowspan="2"> <b>Functionality</b> </td> <td rowspan="2"> <b>Branch</b> </td> <td colspan="4" align="center"> <b>Group Members</b> </td> </tr>
     <tr> <td> <b>Ziyuan Chen</b> </td> <td> <b>Zhirong Chen</b> </td> <td> <b>Zicheng Ma</b> </td> <td> <b>Shihua Zeng</b> </td> </tr>
@@ -376,4 +377,4 @@ Zhirong Chen, Ziyuan Chen, Zicheng Ma, Shihua Zeng
     <tr> <td> File Write </td> <td> <code>filesystem</code> </td> <td align="center"> </td> <td align="center"> ○ </td> <td align="center"> </td> <td align="center"> ○ </td> </tr>
 </table>
 
-
+<br>
