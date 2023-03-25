@@ -20,3 +20,12 @@ is_contact: true
 ---
 
 
+---
+
+## Connection
+
+> Hao Ren
+>
+> Amazing Operating System Engineer, definitely surpass Linus in the future
+>
+> [Web Link](https://moomoohorse.com/home/)
