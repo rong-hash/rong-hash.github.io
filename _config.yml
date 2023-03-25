@@ -22,3 +22,6 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+
+
+remote_theme: ankitsultana/researcher@gem
