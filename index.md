@@ -21,8 +21,8 @@ I am always looking for opportunities to collaborate with other researchers in r
 
 Skill | Capability
 -----|-------
-Programming Languages | Python(proficient), C(proficient), C++, X86, SQL, JavaScript, SystemVerilog
-Tool | Pytorch, Sklearn, Quartus, react, Latex, PLINK, QEMU
+Programming | Python, C, C++, X86, SQL, MongoDB, JavaScript, SystemVerilog
+Tool | Pytorch, Sklearn, Quartus, FPGA, react, Latex, PLINK
 Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 
@@ -46,6 +46,20 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 - First Prize (*Top 5%*) in 2022 CMC (Chinese Mathematics Competition) 
 
+
+## Experience
+
+> **Research**: [AqoursNet: Autoencoded Quantification of Unsupervised Representative Shapelets Network](https://github.com/rong-hash/AQOURSNet)
+>
+> Supervisor: Yang Yang *Associate Professor, Zhejiang University* 
+>
+> Time: May. 2022 - Aug. 2022
+
+> **Research**: Unsupervised Pre-training Improves Tooth Segmentation in 3-Dimensional Intraoral Mesh Scans
+>
+> Supervisor: Zuozhu Liu *Member, IEEE* 
+>
+> Time: Jun. 2021 - Mar. 2022
 
 
 
