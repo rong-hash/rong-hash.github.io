@@ -40,7 +40,7 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 - Outstanding Individual in Community Survice of Zhejiang University (2021)
 
-$$ TEST $$
+
 
 ## Competitions
 
