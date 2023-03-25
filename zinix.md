@@ -17,105 +17,342 @@ Zhirong Chen, Ziyuan Chen, Zicheng Ma, Shihua Zeng
 ## File Structure
 
 ### Booting
-| File | Content |
-| - | - |
-| `mp3.img`<br>`bootimg`<br>`filesys_img` | Boot images |
-| `boot.S` | First instructions of OS |
-| `kernel.c` | Contains `entry` called from ^ |
-| `x86_desc.S` | Descriptor organization |
-| `multiboot.h` | GRUB compliance |
-
-### Checkpoint 1
-| File | Content |
-| - | - |
-| `idt.c`<br>`idt_lnk.S` | IDT initialization<br>with assembly linkage |
-| `i8259.c` | PIC chip driver |
-| `keyboard.c` | Keyboard driver |
-| `rtc.c` | RTC driver |
-| `page.c` | Paging settings |
-
-### Checkpoint 2
-| File | Content |
-| - | - |
-| `terminal.c` | Terminal driver |
-| `filesys.c` | Read-only file system |
-
-### Checkpoint 3 & 4
-| File | Content |
-| - | - |
-| `syscall.c` | System call handler |
-
-### Checkpoint 5
-| File | Content |
-| - | - |
-| `scheduler.c` | Round-robin scheduler |
-| `pit.c` | PIT chip driver |
-
-### Extra Credit
-| File | Content |
-| - | - |
-| `memory.c` | Dynamic memory allocation |
-| `speaker.c` | Speaker driver |
-| `signal.c`<br>`signal_lnk.S` | Signal handler |
-| `ata.c` | ATA hard disk driver |
-
-### Helpers
-| File | Content |
-| - | - |
-| `tests.c` | Test points |
-| `lib.c` | Basic library functions |
-| `types.h` | Type declarations |
-| `debug.h`<br>`debug.sh` | Useful debugging<br>macros and script |
-
+<br>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>mp3.img</code><br><code>bootimg</code><br><code>filesys_img</code></td>
+<td>Boot images</td>
+</tr>
+<tr>
+<td><code>boot.S</code></td>
+<td>First instructions of OS</td>
+</tr>
+<tr>
+<td><code>kernel.c</code></td>
+<td>Contains <code>entry</code> called from ^</td>
+</tr>
+<tr>
+<td><code>x86_desc.S</code></td>
+<td>Descriptor organization</td>
+</tr>
+<tr>
+<td><code>multiboot.h</code></td>
+<td>GRUB compliance</td>
+</tr>
+</tbody>
+</table>
 <br>
 
----
-
-## Testing Guidelines
-
-***IMPORTANT**: Backup `mp3.img` in a safe place and restore it each time the OS crashes.*
-
-### Checkpoint 1
-| Type | Tested Functionality | Testing Method |
-| - | - | - |
-| IDT | Values contained in IDT array | Run `idt_test` |
-| IDT | Handling exceptions | Run `div0_test`<br>***(This should come last)*** |
-| Keyboard | Interpreting scancodes in<br>the keyboard handler | Type & echo characters<br>on the screen |
-| RTC | Receiving an RTC interrupt | Add `test_interrupt();`<br>to `rtc.c:76` |
-| Paging | Values contained in<br>paging structures | In QEMU, Ctrl+Alt+2<br>and type `info mem` |
-| Paging | Dereferencing address ranges | Run `page_test` and<br>`..._deref_not_exist` |
-| Paging | Dereferencing NULL to<br>produce a page fault | Run `..._deref_null` |
-
-### Checkpoint 2
-| Type | Tested Functionality | Testing Method |
-| - | - | - |
-| RTC | Change all possible frequencies<br>and receive interrupts | Run `rtc_driver_test` |
-| Terminal | Read user input from keyboard | Run `terminal_kbd_test_echo`,<br>type characters, press Enter,<br>and examine the echoed string |
-| Terminal | Write different sized strings<br>to the terminal | Run `terminal_kbd_test_newline`<br>and examine the echoed string<br>(Also change `nbytes` in argument) |
-| Filesys | Check whether a file exists | Run `read_file_name_test` |
-| Filesys | Print out the contents of<br>different sized files | Run `read_data_test`<br>and examine the echoed string |
-| Filesys | Print out a list of all files<br>in the file system | Run `read_directory_test` |
-| Filesys | Filesys driver functions | Run `*_file_test` (For now,<br>they should all PASS except for<br>nonexistant filenames in `read`) |
-
-### Checkpoint 3
-| Type | Tested Functionality | Testing Method |
-| - | - | - |
-| Syscall | Sanity check | Run `syserr` (#6 will fail since `vidmap`<br>is not implemented) |
-| Syscall | Execute a program | Run `shell` |
-| Syscall | Halt a program | Run `exit` |
-| Syscall | Read from the terminal | Run `hello` |
-| Syscall | Write to the terminal | Run `testprint`, `counter`, `pingpong` |
-
-### Checkpoint 4
-| Type | Tested Functionality | Testing Method |
-| - | - | - |
-| Syscall | Multiple shells | Run `shell` on top of another |
-| Syscall | Get arguments | Run `cat <filename>` |
-| Syscall | Map video memory | Run `fish` |
-
+</table>
+<h3 id="checkpoint-1">Checkpoint 1</h3>
+<table>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>idt.c</code><br><code>idt_lnk.S</code></td>
+<td>IDT initialization<br>with assembly linkage</td>
+</tr>
+<tr>
+<td><code>i8259.c</code></td>
+<td>PIC chip driver</td>
+</tr>
+<tr>
+<td><code>keyboard.c</code></td>
+<td>Keyboard driver</td>
+</tr>
+<tr>
+<td><code>rtc.c</code></td>
+<td>RTC driver</td>
+</tr>
+<tr>
+<td><code>page.c</code></td>
+<td>Paging settings</td>
+</tr>
+</tbody>
+</table>
+<h3 id="checkpoint-2">Checkpoint 2</h3>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>terminal.c</code></td>
+<td>Terminal driver</td>
+</tr>
+<tr>
+<td><code>filesys.c</code></td>
+<td>Read-only file system</td>
+</tr>
+</tbody>
+</table>
+<h3 id="checkpoint-3--4">Checkpoint 3 &amp; 4</h3>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>syscall.c</code></td>
+<td>System call handler</td>
+</tr>
+</tbody>
+</table>
+<h3 id="checkpoint-5">Checkpoint 5</h3>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>scheduler.c</code></td>
+<td>Round-robin scheduler</td>
+</tr>
+<tr>
+<td><code>pit.c</code></td>
+<td>PIT chip driver</td>
+</tr>
+</tbody>
+</table>
+<h3 id="extra-credit">Extra Credit</h3>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>memory.c</code></td>
+<td>Dynamic memory allocation</td>
+</tr>
+<tr>
+<td><code>speaker.c</code></td>
+<td>Speaker driver</td>
+</tr>
+<tr>
+<td><code>signal.c</code><br><code>signal_lnk.S</code></td>
+<td>Signal handler</td>
+</tr>
+<tr>
+<td><code>ata.c</code></td>
+<td>ATA hard disk driver</td>
+</tr>
+</tbody>
+</table>
+<h3 id="helpers">Helpers</h3>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>tests.c</code></td>
+<td>Test points</td>
+</tr>
+<tr>
+<td><code>lib.c</code></td>
+<td>Basic library functions</td>
+</tr>
+<tr>
+<td><code>types.h</code></td>
+<td>Type declarations</td>
+</tr>
+<tr>
+<td><code>debug.h</code><br><code>debug.sh</code></td>
+<td>Useful debugging<br>macros and script</td>
+</tr>
+</tbody>
+</table>
 <br>
+<hr>
+<h2 id="testing-guidelines">Testing Guidelines</h2>
+<p><em><strong>IMPORTANT</strong>: Backup <code>mp3.img</code> in a safe place and restore it each time the OS crashes.</em></p>
+<h3 id="checkpoint-1">Checkpoint 1</h3>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Tested Functionality</th>
+<th>Testing Method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>IDT</td>
+<td>Values contained in IDT array</td>
+<td>Run <code>idt_test</code></td>
+</tr>
+<tr>
+<td>IDT</td>
+<td>Handling exceptions</td>
+<td>Run <code>div0_test</code><br><em><strong>(This should come last)</strong></em></td>
+</tr>
+<tr>
+<td>Keyboard</td>
+<td>Interpreting scancodes in<br>the keyboard handler</td>
+<td>Type &amp; echo characters<br>on the screen</td>
+</tr>
+<tr>
+<td>RTC</td>
+<td>Receiving an RTC interrupt</td>
+<td>Add <code>test_interrupt();</code><br>to <code>rtc.c:76</code></td>
+</tr>
+<tr>
+<td>Paging</td>
+<td>Values contained in<br>paging structures</td>
+<td>In QEMU, Ctrl+Alt+2<br>and type <code>info mem</code></td>
+</tr>
+<tr>
+<td>Paging</td>
+<td>Dereferencing address ranges</td>
+<td>Run <code>page_test</code> and<br><code>..._deref_not_exist</code></td>
+</tr>
+<tr>
+<td>Paging</td>
+<td>Dereferencing NULL to<br>produce a page fault</td>
+<td>Run <code>..._deref_null</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="checkpoint-2">Checkpoint 2</h3>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Tested Functionality</th>
+<th>Testing Method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RTC</td>
+<td>Change all possible frequencies<br>and receive interrupts</td>
+<td>Run <code>rtc_driver_test</code></td>
+</tr>
+<tr>
+<td>Terminal</td>
+<td>Read user input from keyboard</td>
+<td>Run <code>terminal_kbd_test_echo</code>,<br>type characters, press Enter,<br>and examine the echoed string</td>
+</tr>
+<tr>
+<td>Terminal</td>
+<td>Write different sized strings<br>to the terminal</td>
+<td>Run <code>terminal_kbd_test_newline</code><br>and examine the echoed string<br>(Also change <code>nbytes</code> in argument)</td>
+</tr>
+<tr>
+<td>Filesys</td>
+<td>Check whether a file exists</td>
+<td>Run <code>read_file_name_test</code></td>
+</tr>
+<tr>
+<td>Filesys</td>
+<td>Print out the contents of<br>different sized files</td>
+<td>Run <code>read_data_test</code><br>and examine the echoed string</td>
+</tr>
+<tr>
+<td>Filesys</td>
+<td>Print out a list of all files<br>in the file system</td>
+<td>Run <code>read_directory_test</code></td>
+</tr>
+<tr>
+<td>Filesys</td>
+<td>Filesys driver functions</td>
+<td>Run <code>*_file_test</code> (For now,<br>they should all PASS except for<br>nonexistant filenames in <code>read</code>)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="checkpoint-3">Checkpoint 3</h3>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Tested Functionality</th>
+<th>Testing Method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Syscall</td>
+<td>Sanity check</td>
+<td>Run <code>syserr</code> (#6 will fail since <code>vidmap</code><br>is not implemented)</td>
+</tr>
+<tr>
+<td>Syscall</td>
+<td>Execute a program</td>
+<td>Run <code>shell</code></td>
+</tr>
+<tr>
+<td>Syscall</td>
+<td>Halt a program</td>
+<td>Run <code>exit</code></td>
+</tr>
+<tr>
+<td>Syscall</td>
+<td>Read from the terminal</td>
+<td>Run <code>hello</code></td>
+</tr>
+<tr>
+<td>Syscall</td>
+<td>Write to the terminal</td>
+<td>Run <code>testprint</code>, <code>counter</code>, <code>pingpong</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="checkpoint-4">Checkpoint 4</h3>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Tested Functionality</th>
+<th>Testing Method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Syscall</td>
+<td>Multiple shells</td>
+<td>Run <code>shell</code> on top of another</td>
+</tr>
+<tr>
+<td>Syscall</td>
+<td>Get arguments</td>
+<td>Run <code>cat &lt;filename&gt;</code></td>
+</tr>
+<tr>
+<td>Syscall</td>
+<td>Map video memory</td>
+<td>Run <code>fish</code></td>
+</tr>
+</tbody>
+</table>
 
----
 
 ## Work Distribution
 
