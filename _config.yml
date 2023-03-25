@@ -5,7 +5,7 @@ baseurl: ""
 markdown: kramdown
 # ins_logo: "./Illinois_Block_I.png"
 
-tracking_id: #
+tracking_id: G-Q11NJZT817
 
 footer: yes
 footer_url: "https://github.com/rong-hash/rong-hash.github.io"
