@@ -3,11 +3,13 @@ layout: default
 is_contact: true
 ---
 
-* Email: [zhirong4@illinois.edu](mailto:zhirong4@illinois.edu)
+## Contact
 
-* Phone: [+1-4479021253](tel:+1-4479021253)
-
-* Github: [rong-hash](https://github.com/rong-hash)
+> Email: [zhirong4@illinois.edu](mailto:zhirong4@illinois.edu)
+>
+> Phone: [+1-4479021253](tel:+1-4479021253)
+>
+> Github: [rong-hash](https://github.com/rong-hash)
 
 ---
 

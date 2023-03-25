@@ -22,7 +22,7 @@ I am always looking for opportunities to collaborate with other researchers in r
 Skill | Capability
 -----|-------
 Programming Languages | Python(proficient), C(proficient), C++, X86, SQL, JavaScript, SystemVerilog
-Tool | Pytorch, Sklearn, Quartus, react, Latex, PLINK
+Tool | Pytorch, Sklearn, Quartus, react, Latex, PLINK, QEMU
 Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 
