@@ -4,42 +4,47 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="me.jpg" width="300" height="229" >
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a junior year student of B.E. Computer Engineering at University of Illinois at Urbana-Champaign, USA (GPA: 4/4). I also have a Electrical and Computer Engineering double degree at Zhejiang University (GPA: 3.92/4), China.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I am experienced in bioinformatics and have previously conducted research on tooth segmentation in 3-dimensional intraoral mesh scans using unsupervised learning under the supervision of [Prof. Zuozhu Liu](https://person.zju.edu.cn/en/lzz) in ZJU-UIUC Institute. Currently, I am focused on identifying influential SNP markers for Alzheimer's disease underthe supervision of [Prof. Haohan Wang](https://haohanwang.github.io/) in UIUC. As a researcher in the medical field, I am keenly aware of the importance of trustworthy AI and am also interested in the area of machine learning security.
 
-## Publications
+I am always looking for opportunities to collaborate with other researchers in related fields. If you are interested in collaborating on a project related to bioinformatics, machine learning security, or medical AI, please do not hesitate to contact me.
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## Typography
+## Skills
+Skill | Capability
+--- | ---
+Programming Languages | Python(proficient), C(proficient), C++, X86, SQL, JavaScript, SystemVerilog
+Tool | Pytorch, Sklearn, Quartus, react, Latex, PLINK
+Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## Honors
 
-Here is a horizontal rule
+- First-class Scholarship of Zhejiang University (*Top 3%*) $ \times $ 2 (2021, 2022)
 
----
+- Scholarship from the government of Zhejiang Province (*Top 3%*) $ \times $ 2 (2021, 2022)
 
-Here is a blockquote
+- ZJUI Academic Scholarship - Second Prize (*Top 3%*) $ \times $ 2 (2021, 2022)
 
-> To a great mind, nothing is little
+- Outstanding Students of Zhejiang University $ \times $ 2 (2021, 2022)
 
-## References
+- Outstanding Individual in Community Survice of Zhejiang University (2021)
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+
+## Competitions
+
+- Finalist (*Top 1%*) in 2022 MCM (International Mathematical Contest In Modeling)
+
+- First Prize (*Top 5%*) in 2022 CMC (Chinese Mathematics Competition) 
+
+
+
+

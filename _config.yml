@@ -1,4 +1,4 @@
-title: Researcher
+title: Zhirong Chen
 url: "https://rong-hash.github.io"
 baseurl: ""
 
@@ -17,11 +17,14 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: ""
  - name: "Resume"
    link: "resume.pdf"
+ - name: "Project"
+   link: "project"
  - name: "Contact"
    link: "contact"
+
 
 
 remote_theme: ankitsultana/researcher@gem

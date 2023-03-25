@@ -3,24 +3,23 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [zhirong4@illinois.edu](mailto:zhirong4@illinois.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1-4479021253](tel:+1-4479021253)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 1010 W University Ave 
 >
-> London
+> Urbana
 >
-> United Kingdom
+> United States
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Twitter](https://twitter.com/ZhirongChen11)
+2. [Instagram](https://instagram.com/zhirongshu?igshid=ZDdkNTZiNTM=)
