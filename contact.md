@@ -20,7 +20,6 @@ is_contact: true
 ---
 
 
----
 
 ## Connection
 
