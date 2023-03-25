@@ -25,6 +25,13 @@ is_contact: true
 
 > Hao Ren
 >
-> Amazing Operating System Engineer, definitely surpass Linus in the future
+> Amazing operating system engineer, definitely surpass Linus in the future
 >
 > [Web Link](https://moomoohorse.com/home/)
+
+
+> Erkai Yu
+>
+> Security, Chess Enthusiast
+>
+> [Web Link](https://erkaiyublog.github.io/)
