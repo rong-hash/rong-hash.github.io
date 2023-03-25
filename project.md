@@ -5,11 +5,11 @@ is_project: true
 
 # Project
 
-> **Zinix**
+> [**Zinix**](https://rong-hash.github.io/zinix)
 >
-> A linux_like Operating System, for more detail click [here](https://rong-hash.github.io/zinix)
+> A linux_like Operating System 
 
 
-> **Crime Map**
+> [**Crime Map**](https://rong-hash.github.io/crimemap)
 >
-> Crime Map of UIUC, with cute crime icon, for more detail click [here](https://rong-hash.github.io/crimemap)
+> Crime Map of UIUC
