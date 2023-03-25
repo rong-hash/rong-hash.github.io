@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpg" >
 
-Hi! I am a junior year student of B.E. Computer Engineering at University of Illinois at Urbana-Champaign, USA (GPA: 4/4). I also have an Electrical and Computer Engineering degree at Zhejiang University (GPA: 3.92/4), China.
+Hi! I am a junior year student of B.E. Computer Engineering at University of Illinois at Urbana-Champaign, USA (GPA: 4/4). I also have an Electrical and Computer Engineering degree at Zhejiang University, China (GPA: 3.92/4).
 
 
 
