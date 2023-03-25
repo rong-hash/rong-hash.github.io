@@ -18,11 +18,18 @@ I am always looking for opportunities to collaborate with other researchers in r
 
 
 ## Skills
-Skill                   | Capability
-------                  | ------
-Programming Languages   | Python(proficient), C(proficient), C++, X86, SQL, JavaScript, SystemVerilog
-Tool                    | Pytorch, Sklearn, Quartus, react, Latex, PLINK
-Language                | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
+Skill | Capability
+------|------
+Programming Languages | Python(proficient), C(proficient), C++, X86, SQL, JavaScript, SystemVerilog
+Tool | Pytorch, Sklearn, Quartus, react, Latex, PLINK
+Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
+
+
+Year | Award | Category
+-----|-------|--------
+2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
+2014 | Satellite | Won Best Actor miniseries or television film
 
 
 
