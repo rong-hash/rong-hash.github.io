@@ -8,16 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="blog, accent, {{ site.author }}, {{ site.title }}, jekyll">
     <meta name="author" content="{{ site.author }}">
-    <script type="text/x-mathjax-config">
-        MathJax = {
-          tex: {
-            inlineMath: [['$', '$'], ["\\(", "\\)"]],
-            processEscapes: true,
-          }
-        }
-    </script>
-    <script type="text/javascript"
-        src="https://d3eoax9i5htok0.cloudfront.net/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
     </script>
     {% if page.url == "/404.html" %}
         <meta http-equiv="refresh" content="5; url=/">
