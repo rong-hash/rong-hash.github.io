@@ -1,4 +1,4 @@
-# Crime Map
+# [Crime Map](https://github.com/rong-hash/CrimeMap)
 
 ## Contributor
 [Zhirong Chen](https://github.com/rong-hash)

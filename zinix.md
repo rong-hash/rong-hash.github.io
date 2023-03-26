@@ -1,4 +1,4 @@
-# Zinix
+# [Zinix](https://github.com/rong-hash/Zinix)
 
 ## What is Zinix
 An adapted version of Linux
