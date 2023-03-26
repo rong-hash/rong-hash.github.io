@@ -36,20 +36,20 @@ is_contact: true
 
 > Erkai Yu
 >
-> Security, Chess Enthusiast, previously work on database project with him
+> Security, Chess Enthusiast, previously work on Crime Map with him
 >
 > [Web Link](https://erkaiyublog.github.io/)
 
 
 > Zicheng Ma
 >
-> Previously collaborate with him on MCM, an international Math Modelling Competition
+> Previously collaborate with him on Operating System, Crime Map, MCM
 >
 > [Web Link](https://zichengma.github.io/)
 
 
 > Ziyuan Chen
 >
-> Previously collaborate with him on MCM, Medical Database, Graph Machine Learning, community service, currently work with him on Algorithm
+> Previously collaborate with him on Operating System, MCM, Medical Database, Graph Machine Learning, community service, currently work with him on Algorithm
 >
 > [Web Link](https://github.com/AllenHeartcore)
