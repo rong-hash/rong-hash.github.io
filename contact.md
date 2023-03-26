@@ -27,18 +27,19 @@ is_contact: true
 
 ## Connection
 
-> Hao Ren
->
-> Amazing operating system engineer, currently work on FPGA project with him
->
-> [Web Link](https://moomoohorse.com/home/)
-
 
 > Erkai Yu
 >
 > Security, Chess Enthusiast, previously work on Crime Map with him
 >
 > [Web Link](https://erkaiyublog.github.io/)
+
+> Hao Ren
+>
+> Amazing operating system engineer, currently work on FPGA project with him
+>
+> [Web Link](https://moomoohorse.com/home/)
+
 
 
 > Zicheng Ma
