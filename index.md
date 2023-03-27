@@ -23,7 +23,7 @@ I am always looking for opportunities to collaborate with other researchers in r
 Skill | Capability
 -----|-------
 Programming | Python, C, C++, X86, SQL, MongoDB, JavaScript, SystemVerilog
-Tool | Pytorch, Sklearn, Quartus, FPGA, react, Latex, PLINK
+Tool | Pytorch, Quartus, FPGA, Latex, PLINK, react, MySQL Workbench, Git
 Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 
