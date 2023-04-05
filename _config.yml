@@ -24,6 +24,7 @@ nav:
  - name: "Project"
    link: "zinix"
    link: "crimemap"
+   link: "protocol"
    link: "project"
  - name: "Contact"
    link: "contact"
