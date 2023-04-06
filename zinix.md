@@ -2,7 +2,7 @@
 
 
 ## Contributor
-[Zhirong Chen](https://rong-hash.github.io), [Ziyuan Chen](https://github.com/AllenHeartcore), Zicheng Ma(https://zichengma.github.io), [Shihua Zeng](https://github.com/Bekaboo)
+[Zhirong Chen](https://rong-hash.github.io), [Ziyuan Chen](https://github.com/AllenHeartcore), [Zicheng Ma](https://zichengma.github.io), [Shihua Zeng](https://github.com/Bekaboo)
 
 ## What is Zinix
 An adapted version of Linux
