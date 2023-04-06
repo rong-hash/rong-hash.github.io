@@ -10,6 +10,13 @@ An adapted version of Linux
 4. Multi Terminals 
 5. Syscall (Read, Write, Open, Close, Execute)
 6. File System (Read and Write)
+   
+[More Details](https://zichengma.github.io/ZinixOS/)
+
+
+## Detailed Implementation
+
+[A detailed implementation](https://zichengma.github.io/ECE391-MP3-Tutorial/)
 
 ## Contributor
 Zhirong Chen, Ziyuan Chen, Zicheng Ma, Shihua Zeng
