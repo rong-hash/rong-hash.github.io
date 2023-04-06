@@ -1,5 +1,9 @@
 # [Zinix](https://github.com/rong-hash/Zinix)
 
+
+## Contributor
+[Zhirong Chen](https://rong-hash.github.io), [Ziyuan Chen](https://github.com/AllenHeartcore), Zicheng Ma(https://zichengma.github.io), [Shihua Zeng](https://github.com/Bekaboo)
+
 ## What is Zinix
 An adapted version of Linux
 
@@ -18,8 +22,7 @@ An adapted version of Linux
 
 [A detailed implementation](https://zichengma.github.io/ECE391-MP3-Tutorial/)
 
-## Contributor
-Zhirong Chen, Ziyuan Chen, Zicheng Ma, Shihua Zeng
+
 
 ## File Structure
 
