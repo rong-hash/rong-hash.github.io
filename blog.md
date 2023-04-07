@@ -8,3 +8,9 @@ is_blog: true
 > [**Cook**](https://rong-hash.github.io/cook)
 >
 > Some cooking dishes
+
+
+
+> [**ECE385 Note 1**](https://rong-hash.github.io/ece385note1)
+>
+> A note about how to draw your hardware, ip, software together and download it in your board
