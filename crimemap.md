@@ -9,6 +9,9 @@
 
 [Erkai Yu](https://github.com/silkrow)
 
+## demo
+https://youtu.be/-z2Pg80oAbs
+
 ## Project Summary
 We want to create a web application that can clearly display the crime. Users can use the website to report incidents they have seen as well as locate areas with high crime rates. With the use of this website, we want to reduce crime and improve student safety at UIUC.
 
@@ -110,5 +113,4 @@ npm install --save react-geocode
 
     node index.js
 
-## demo
-https://youtu.be/-z2Pg80oAbs
+
