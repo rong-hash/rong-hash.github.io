@@ -1,0 +1,67 @@
+<!doctype html>
+<style>
+    @font-face
+    {
+        font-family: "Web IBM VGA 8x16";
+        src: url("./demo/web_ibm_vga_8x16.woff") format("woff");
+    }
+
+    #screen_container
+    {
+        padding: 20px;
+        margin: auto;
+        width: 800px;
+    }
+
+    #emu_text
+    {
+        white-space: pre;
+        font-family: "Web IBM VGA 8x16";
+        font-style: normal;
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    #emu_screen
+    {
+        display: none;
+    }
+
+    #hint_text
+    {
+        text-align: center;
+        line-height: 20px;
+    }
+</style>
+<script src="./demo/libv86.js"></script>
+<script>
+    "use strict";
+    window.onload = function()
+    {
+        var emulator = window.emulator = new V86Starter({
+            wasm_path: "./demo/v86.wasm",
+            memory_size: 32 * 1024 * 1024,
+            vga_memory_size: 4 * 1024,
+            screen_container: document.getElementById("screen_container"),
+            bios: {
+                url: "./demo/seabios.bin",
+            },
+            vga_bios: {
+                url: "./demo/vgabios.bin",
+            },
+            hda: {
+                url: "./demo/mp3.img",
+            },
+            autostart: true,
+        });
+    }
+</script>
+<title>391OS-36 Online Demo</title>
+<div id="screen_container">
+    <div id="emu_text"></div>
+    <canvas id="emu_screen"></canvas>
+    <p id="hint_text">
+        <b>Press Alt+F1/F2/F3 to switch terminal. Press Ctrl+C to interrupt. Press Ctrl+H to get help.<br>
+        Press Ctrl+S to enable/disable scheduler, so it can mimic the environment prior to CP5.</b>
+    </p>
+</div>

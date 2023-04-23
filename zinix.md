@@ -7,6 +7,9 @@
 ## What is Zinix
 An adapted version of Linux
 
+## Demo
+[See here](https://rong-hash.github.io/zinixos.html)
+
 ## Functionality
 1. Signal (Including User Defined Signals)
 2. Speaker, Dynamic Mallocation (Slab Caches, Kmalloc)
