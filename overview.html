@@ -56,7 +56,7 @@
     </tr>
     <tr>
         <td>exit</td>
-        <td>Quit the current 391OS-36 Shell program.<br>Will try to restart if the last shell in the current terminal is terminated.</td>
+        <td>Quit the current Zinix Shell program.<br>Will try to restart if the last shell in the current terminal is terminated.</td>
     </tr>
     <tr>
         <td>[Executable] [Arg]</td>
@@ -117,7 +117,7 @@
     <tr>
         <td>shell</td>
         <td>Executable</td>
-        <td>391OS-36 shell. The underlying program running in each terminal.</td>
+        <td>Zinix shell. The underlying program running in each terminal.</td>
     </tr>
     <tr>
         <td>grep</td>
@@ -211,7 +211,7 @@
 </p>
 <h3 id="dev">Supported Devices</h3>
 <p>
-    391OS-36 has drivers for the standard keyboard, programmable interval timer (PIT), real-time clock (RTC), and terminal.<br>
+    Zinix has drivers for the standard keyboard, programmable interval timer (PIT), real-time clock (RTC), and terminal.<br>
     The standard keyboard driver adds support for capital letter handling and combinational keys.<br>
     The PIT driver is used to handle the scheduling and can be turned off (see below).<br>
     The RTC driver supports frenquency adjusting and is "virtualized," so each process has its own RTC instance (see below).<br>
@@ -219,12 +219,12 @@
 </p>
 <h3 id="memaddr">Memory Addressing</h3>
 <p>
-    391OS-36 bypassed segmentation just like any modern operation systems, only paging was used for memory addressing.<br>
+    Zinix bypassed segmentation just like any modern operation systems, only paging was used for memory addressing.<br>
     The memory layout is fixed (see below).<br>
 </p>
 <h3 id="pmem">Physical Memory Layout</h3>
 <p>
-    From low to high, 391OS-36 utilized 32MB of physical memory:<br>
+    From low to high, Zinix utilized 32MB of physical memory:<br>
     <ul>
         <li>4MB space with several 4KB space for the VRAM</li>
         <li>4MB space for kernel data and stacks</li>
@@ -233,7 +233,7 @@
 </p>
 <h3 id="vmem">Virtual Memory Layout</h3>
 <p>
-    From low to high, 391OS-36 utilized the following in the 4GB virtual memory space:<br>
+    From low to high, Zinix utilized the following in the 4GB virtual memory space:<br>
     <ul>
         <li>4MB PT with several 4KB global superviser pages for the VRAM</li>
         <li>4MB global superviser page for the kernel</li>
@@ -243,13 +243,13 @@
 </p>
 <h3 id="fs">File System</h3>
 <p>
-    The 391OS-36 FS has a total size of 8MB, and is divided into 4KB blocks of one boot block, inodes, and data blocks.<br>
+    The Zinix FS has a total size of 8MB, and is divided into 4KB blocks of one boot block, inodes, and data blocks.<br>
     Each boot block can track up to 62 inodes and one root directory, and each inode can track up to 1023 data blocks.<br>
     The limitations are up to 62 files of 4092KB size and 32 characters name length. Also, it does not support hierarchy and is read-only.<br>
 </p>
 <h3 id="fsabst">File System Abstraction</h3>
 <p>
-    391OS-36 treat any files, device (RTC), and directory as files. Each process has a dynamic file descriptor (FD) that supports 8 open files.<br>
+    Zinix treat any files, device (RTC), and directory as files. Each process has a dynamic file descriptor (FD) that supports 8 open files.<br>
     According to the file type, each entry tracks inode, position, flags, and an operation jump table, and is utilized by syscalls (see below).<br>
 </p>
 <h3 id="syscall">System Calls</h3>
@@ -305,18 +305,18 @@
 </p>
 <h3 id="proctrl">Process Control</h3>
 <p>
-    391OS-36 supports up to 6 processes. Each process holds a process control block (PCB) in the kernel.<br>
+    Zinix supports up to 6 processes. Each process holds a process control block (PCB) in the kernel.<br>
     The kernel manages the PCB allocation by a custom design called <i>PCB pool</i>.<br>
     Each PCB tracks the allocated process ID (PID), parent PID, terminal ID, kernel/user stacks, FD, etc.<br>
 </p>
 <h3 id="multerm">Multiterminals</h3>
 <p>
-    391OS-36 supports up to 3 terminals. Each terminal holds a custom design called <i>terminal info (TI) block</i> in the kernel.<br>
+    Zinix supports up to 3 terminals. Each terminal holds a custom design called <i>terminal info (TI) block</i> in the kernel.<br>
     Each <i>TI block</i> tracks the PCB pointer, coordinations, RTC parameters, etc.<br>
 </p>
 <h3 id="scheduler">Scheduler</h3>
 <p>
-    391OS-36 supports a round-robin scheduler that can be turned off and a virtualized RTC for each process.<br>
+    Zinix supports a round-robin scheduler that can be turned off and a virtualized RTC for each process.<br>
     The scheduler schedules 3 processes that is shown on each terminal, called active processes, so they can multitask.<br>
     But only one process is "actually" running, called running process.<br>
     Turning off scheduler will disable the multitasking, but it mimics the environment for your work prior to CP5.<br>
