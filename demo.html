@@ -83,15 +83,16 @@
         )
     }
 </script>
-<title>391OS-36 Online Demo</title>
+<title>Zinix Online Demo</title>
 <h2>Online Demo</h2>
 <hr>
 <div id="screen_container">
     <div id="emu_text"></div>
     <canvas id="emu_screen"></canvas>
     <p id="hint_text">
-        <b>Press Alt+F1/F2/F3 to switch terminal. Press Ctrl+C to interrupt. Press Ctrl+H to get help.<br>
-        Press Ctrl+S to enable/disable scheduler, so it can mimic the environment prior to CP5.</b><br><br>
+        <b>Press Alt+F1/F2/F3 to switch terminal. Press Ctrl+C to interrupt.<br>
+        <b>Program: fish, pingpong, hello, counter, cat, grep, testprint, sigtest<br>
+        </b><br><br>
         For more combinational keys and technical info, please refer to the <a href="./overview.html" target="_blank">Technical Overview</a> page.<br>
         This page is best viewed on a computer. Refresh the page to reset the emulator.<br>
     </p>
@@ -102,26 +103,20 @@
 <div id="known_issue">
     <h3>Known Issues</h3>
     <p>
-        <i>Last updated on Apr. 17, 2023</i>
+        <i>Last updated on Apr. 23, 2023</i>
         <ul>
-            <li><b><i>cat . (root file system)</i> does not work as intended as required in the MP assignment.</b></li>
-            <li><i>"Kill the process" function in Process Manager (not required)</i> does not work with the scheduler.</li>
+            <li><b>Sound driver cannot work on website due to lack of sound driver.</b></li>
         </ul>
     </p>
 </div>
 <h3>Introduction</h3>
 <p>
-    <b>391OS-36 is a x86 multitask OS built from scratch.</b> It features:<br>
+    <b>Zinix is a x86 multitask OS built from scratch.</b> It features:<br>
     <ul>
         <li>A custom file system</li>
         <li>Essential drivers and system calls</li>
         <li>Up to six user applications running in three terminals</li>
         <li>Scheduler, VRTC, and signals support</li>
     </ul>
-</p>
-<h3>Office Hours</h3>
-<p>
-    I am hosting office hours for ECE 391 in Spring 2023.<br>
-    If you ever need help please come by 19-22 W or 18-22 F in ECEB 3026.<br>
 </p>
 <hr>

@@ -18,7 +18,7 @@
         padding-right: 20px;
     }
 </style>
-<title>391OS-36 Technical Overview</title>
+<title>Zinix Technical Overview</title>
 <h2 id="top">Technical Overview</h2>
 <hr>
 <div id="toc_container">
@@ -42,7 +42,6 @@
             <li><a href="#multerm">Multiterminals</a></li>
             <li><a href="#scheduler">Scheduler</a></li>
             <li><a href="#sig">Signals</a></li>
-            <li><a href="#pmgr">Process Manager</a></li>
         </ul>
     </p>
 </div>
@@ -96,26 +95,6 @@
         <td>Clear Screen</td>
         <td>Clear the VRAM and reset the cursor.</td>
     </tr>  
-    <tr>
-        <td><i>Ctrl+S</i></td>
-        <td><i>Enable/Disable Scheduler</i></td>
-        <td><i>(See below)</i></td>
-    </tr>  
-    <tr>
-        <td><i>Ctrl+V</i></td>
-        <td><i>Enable/Disable Verbose Mode</i></td>
-        <td><i>Print verbose outputs (signal, execute, halt).</i></td>
-    </tr>  
-    <tr>
-        <td><i>Ctrl+P</i></td>
-        <td><i>Start 391OS-36 Process Manager</i></td>
-        <td><i>(See below)</i></td>
-    </tr>  
-    <tr>
-        <td><i>Ctrl+H</i></td>
-        <td><i>Start 391OS-36 Help Center</i></td>
-        <td><i>Show combination keys and about info</i></td>
-    </tr>   
 </table>
 <h3 id="fsdir">File System Directory</h3>
 <table border="2" cellpadding="5">
@@ -389,25 +368,6 @@
         The first five signals supports a custom user-installed handler through set_handler system call.<br>
         You will need to implement the first five to be eligible to receive extra credit for the signals in your MP assignment.<br>
         Linkage is carefully engineered to construct the stack, so signals are checked and delivered during any context switch (see above).
-    </p>
-</i>
-<i>
-    <h3 id="pmgr">Process Manager</h3>
-    <p>
-        391OS-36 Process Manager is a kernel utility that prints the current PCB Pool and TI block information:<br>
-        <ul>
-            <li>PID, the Process ID</li>
-            <li>TID, the Terminal ID</li>
-            <li>PPID, the Parent Process ID</li>
-            <li>KSP, the Kernel Stack Pointer</li>
-            <li>FD, the File Descriptor</li>
-            <li>ECHO, the echo flag</li>
-            <li>VMAP, the vidmap flag</li>
-            <li>COOR, the cursor coordination</li>
-            <li>... and also, the (active, for terminal) program name</li>
-        </ul>
-        It is design specific to 391OS-36, so it is definiately not required.<br>
-        Please note this utility's kill function does not work the scheduler (please check other known issues in the demo page).<br>
     </p>
 </i>
 <hr>
