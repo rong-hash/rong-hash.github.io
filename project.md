@@ -7,7 +7,7 @@ is_project: true
 
 ## Operating System
 
-> [**Zinix**](https://rong-hash.github.io/zinix)
+> [**Zinix**](https://rong-hash.github.io/zinixos)
 >
 > A linux_like Operating System 
 
