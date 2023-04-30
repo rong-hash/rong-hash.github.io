@@ -14,3 +14,8 @@ is_blog: true
 > [**ECE385 Note 1**](https://rong-hash.github.io/ece385note1)
 >
 > A note about how to draw your hardware, ip, software together and download it in your board
+
+
+> [**Toefl Note**](https://rong-hash.github.io/toefl)
+>
+> A note about how to improve your toefl score quickly
