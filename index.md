@@ -58,7 +58,13 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 ## Experience
 
-> **Research**: [AqoursNet: Autoencoded Quantification of Unsupervised Representative Shapelets Network](https://github.com/rong-hash/AQOURSNet)
+> **Research**: Personalized Model - Precise Alzheimer's Genetic Discovery
+>
+> Supervisor: [Haohan Wang](https://haohanwang.github.io/) *Assistant Professor, UIUC* 
+>
+> Time: Dec. 2022 - Present
+
+> **Research**: [ShapeNet: Shapelet Graph Attention Network](https://github.com/rong-hash/AQOURSNet)
 >
 > Supervisor: [Yang Yang](http://yangy.org/) *Associate Professor, Zhejiang University* 
 >
