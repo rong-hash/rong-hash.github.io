@@ -72,7 +72,7 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 > **Research**: Unsupervised Pre-training Improves Tooth Segmentation in 3-Dimensional Intraoral Mesh Scans
 >
-> Supervisor: [Zuozhu Liu](https://person.zju.edu.cn/en/lzz) *Member, IEEE* 
+> Supervisor: [Zuozhu Liu](https://www.intl.zju.edu.cn/zh-hans/node/16391) *Member, IEEE* 
 >
 > Time: Jun. 2021 - Mar. 2022
 
