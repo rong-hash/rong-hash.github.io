@@ -20,7 +20,7 @@ sass:
 
 nav:
  - name: "Resume"
-   link: "resume.pdf"
+   link: "CV.pdf"
  - name: "Project"
    link: "zinix"
    link: "crimemap"

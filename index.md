@@ -18,6 +18,13 @@ I am experienced in bioinformatics and have previously conducted research on too
 I am always looking for opportunities to collaborate with other researchers in related fields. If you are interested in collaborating on a project related to bioinformatics, machine learning security, or medical AI, please do not hesitate to contact me.
 
 
+## Publication
+
+**[Pub1]** **Zhirong Chen**, Haohan Wang. Mixed Model Personalized Regression Unveils Precise Alzheimer’s Genetic Discovery. Submitted to *Bioinformatics*.
+
+**[Pub2]** One paper submitted to *KDD*.
+
+
 ## Skills
 
 Skill | Capability
