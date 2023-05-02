@@ -20,7 +20,7 @@ I am always looking for opportunities to collaborate with other researchers in r
 
 ## Publication
 
-**[Pub1]** **Zhirong Chen**, Haohan Wang. Mixed Model Personalized Regression Unveils Precise Alzheimer’s Genetic Discovery. Submitted to *Bioinformatics*.
+**[Pub1]** **Zhirong Chen**, Haohan Wang. Heteroscedastic Personalized Regression Unveils Precise Alzheimer’s Genetic Discovery. Submitted to *Bioinformatics*.
 
 **[Pub2]** One paper submitted to *KDD*, double blind review.
 
