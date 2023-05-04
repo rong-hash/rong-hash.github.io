@@ -7,15 +7,11 @@ usemathjax: true
 
 <img class="profile-picture" src="img/me.jpg" >
 
-Hi! I am a junior year student of B.E. Computer Engineering at University of Illinois at Urbana-Champaign, USA (GPA: 4/4). I'm also proceeding an Electrical and Computer Engineering degree at Zhejiang University, China (GPA: 3.92/4).
+Hi! I am a junior year student of B.S. Electrical and Computer Engineering at Zhejiang University, China (GPA: 3.92/4, Rank: 3/64). I'm also an exchange student of Computer Engineering at UIUC, USA (GPA: 4/4). I'm fortunately supervised by [Prof. Haohan Wang](https://haohanwang.github.io/) at UIUC and [Prof. Yang Yang](http://yangy.org/) at Zhejiang University.
 
 
 
-## Research Interest
 
-I am experienced in bioinformatics and graph machine learning. Currently, I am focused on identifying influential SNP markers for Alzheimer's disease under the supervision of [Prof. Haohan Wang](https://haohanwang.github.io/) in UIUC. I have previously conducted research on tooth segmentation in 3-dimensional intraoral mesh scans using unsupervised learning under the instruction of [Prof. Zuozhu Liu](https://scholar.google.com/citations?user=h602wLIAAAAJ&hl=en&oi=ao) in ZJU-UIUC Institute, and researched in shapelet extraction under the supervision of [Prof. Yang Yang](http://yangy.org). As a researcher in the medical field, I am keenly aware of the importance of trustworthy AI and am also interested in the area of machine learning security.
-
-I am always looking for opportunities to collaborate with other researchers in related fields. If you are interested in collaborating on a project related to bioinformatics, machine learning security, or medical AI, please do not hesitate to contact me.
 
 
 ## Publication
@@ -46,6 +42,8 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 - Outstanding Students of Zhejiang University $\times$ 2 (2021, 2022)
 
 - Outstanding Individual in Community Survice of Zhejiang University (2021)
+
+- Outstanding Summer Research in Zhejiang University
 
 
 
