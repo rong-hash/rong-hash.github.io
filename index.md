@@ -16,7 +16,7 @@ Hi! I am a junior year student of B.S. Electrical and Computer Engineering at Zh
 
 ## Publication
 
-**[Pub1]** **Zhirong Chen**, Haohan Wang. [Heteroscedastic Personalized Regression Unveils Precise Alzheimer’s Genetic Discovery](). Submitted to *Bioinformatics*.
+**[Pub1]** **Zhirong Chen**, Haohan Wang. [Heteroscedastic Personalized Regression Unveils Precise Alzheimer’s Genetic Discovery](https://rong-hash.github.io/hetpr). Submitted to *Bioinformatics*.
 
 **[Pub2]** One paper submitted to *KDD*, double blind review.
 
