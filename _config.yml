@@ -21,6 +21,9 @@ sass:
 nav:
  - name: "Resume"
    link: "CV.pdf"
+ - name: "Publication"
+   link: "hetpr"
+   link: "publication"
  - name: "Project"
    link: "zinix"
    link: "crimemap"
@@ -33,9 +36,7 @@ nav:
    link: "ece385note1"
    link: "toefl"
    link: "blog"
- - name: "Publication"
-   link: "hetpr"
-   link: "publication"
+
 
 
 
