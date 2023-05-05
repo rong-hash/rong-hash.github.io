@@ -33,6 +33,9 @@ nav:
    link: "ece385note1"
    link: "toefl"
    link: "blog"
+ - name: "Publication"
+   link: "hetpr"
+   link: "publication"
 
 
 
