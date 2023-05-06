@@ -7,7 +7,7 @@ usemathjax: true
 
 <img class="profile-picture" src="img/me.jpg" >
 
-Hi! I am a junior year student of B.S. Electrical and Computer Engineering at Zhejiang University, China (GPA: 3.92/4, Rank: 3/64). I'm also an exchange student of Computer Engineering at UIUC, USA (GPA: 4/4). I'm fortunately supervised by [Prof. Haohan Wang](https://haohanwang.github.io/) at UIUC and [Prof. Yang Yang](http://yangy.org/) at Zhejiang University.
+Hi! I am a junior year student of B.S. Electrical and Computer Engineering at Zhejiang University, China (GPA: 3.92/4, Rank: 3/64). I'm also an exchange student of Computer Engineering at UIUC, USA (GPA: 4/4). I'm fortunately supervised by [Prof. Haohan Wang](https://haohanwang.github.io/) at UIUC and [Prof. Yang Yang](http://yangy.org/), [Prof. Zuozhu Liu](https://scholar.google.com/citations?user=h602wLIAAAAJ&hl) at Zhejiang University.
 
 
 
