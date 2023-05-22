@@ -18,7 +18,7 @@ Hi! I am a junior year student of B.S. Electrical and Computer Engineering at Zh
 
 **[Pub1]** **Zhirong Chen**, Haohan Wang. [Heteroscedastic Personalized Regression Unveils Genetic Basis of Alzheimer’s Disease Stratified by Cognitive Level](https://rong-hash.github.io/hetpr). Submitted to *Bioinformatics*.
 
-**[Pub2]** One paper submitted to *KDD*, double blind review.
+**[Pub2]** One paper ready to submit to *TKDE*, double blind review.
 
 
 ## Skills

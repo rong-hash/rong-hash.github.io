@@ -32,6 +32,7 @@ nav:
  - name: "Contact"
    link: "contact"
  - name: "Blog"
+   link: "docker"
    link: "cook"
    link: "ece385note1"
    link: "toefl"
