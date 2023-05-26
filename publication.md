@@ -7,4 +7,4 @@
 > Submitted to Bioinformatics
 
 
-> One paper submitted to KDD, double-blind review
+> One paper ready to submit to *TKDE*
