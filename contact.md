@@ -53,4 +53,4 @@ is_contact: true
 >
 > Previously collaborate with him on Operating System, MCM, Medical Database, Graph Machine Learning, community service, currently work with him on Algorithm
 >
-> [Web Link](https://github.com/AllenHeartcore)
+> [Web Link](https://AllenHeartcore.github.io)
