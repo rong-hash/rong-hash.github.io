@@ -16,9 +16,8 @@ Hi! I am a junior year student of B.S. Electrical and Computer Engineering at Zh
 
 ## Publication
 
-**[Pub1]** **Zhirong Chen**, Haohan Wang. [Heteroscedastic Personalized Regression Unveils Genetic Basis of Alzheimer’s Disease Stratified by Cognitive Level](https://rong-hash.github.io/hetpr). Submitted to *Bioinformatics*.
+**[Pub1]** **Zhirong Chen**, Haohan Wang. [Heteroscedastic Personalized Regression Unveils Genetic Basis of Alzheimer’s Disease Stratified by Cognitive Level](https://rong-hash.github.io/hetpr). Submitted to *PLOS Computational Biology*.
 
-**[Pub2]** One paper ready to submit to *TKDE*.
 
 
 ## Skills
@@ -33,6 +32,8 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 ## Honors
 
+- Yunni and Maxine Pao Memorial Scholarship (2023)
+
 - Zhejiang University Scholarship - First Prize $\times$ 2 (2021, 2022)
 
 - Scholarship from the government of Zhejiang Province $\times$ 2 (2021, 2022)
@@ -45,6 +46,7 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 - Outstanding Summer Research in Zhejiang University
 
+- UIUC Dean's List (2021, 2022, 2023)
 
 
 ## Competitions

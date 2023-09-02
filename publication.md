@@ -4,7 +4,6 @@
 >
 > **Zhirong Chen**, Haohan Wang
 >
-> Submitted to Bioinformatics
+> Submitted to PLOS Computational Biology
 
 
-> One paper ready to submit to *TKDE*
