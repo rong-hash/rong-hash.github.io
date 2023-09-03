@@ -7,7 +7,7 @@ usemathjax: true
 
 <img class="profile-picture" src="img/me.jpg" >
 
-Hi! I am a junior year student of B.S. Electrical and Computer Engineering at Zhejiang University, China (GPA: 3.92/4, Rank: 3/64). I'm also an exchange student of Computer Engineering at UIUC, USA (GPA: 4/4). I'm fortunately supervised by [Prof. Haohan Wang](https://haohanwang.github.io/) at UIUC and [Prof. Yang Yang](http://yangy.org/), [Prof. Zuozhu Liu](https://scholar.google.com/citations?user=h602wLIAAAAJ&hl) at Zhejiang University.
+Hi! I am a junior year student of B.S. Electrical and Computer Engineering at Zhejiang University, China (GPA: 3.92/4, Rank: 3/64). I'm also an exchange student of Computer Engineering at UIUC, USA (GPA: 4/4). I'm fortunately supervised by [Prof. Ying Wang](https://wangying-ict.github.io/) at ICT (Institute of Computing Technology, Chinese Academy of Science). I also collaborate with [Prof. Haohan Wang](https://haohanwang.github.io/) at UIUC, [Prof. Shutao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) at Tsinghua University, [Prof. Tao Dai](https://csse.szu.edu.cn/pages/user/index?id=1204) at Shenzhen University and [Prof. Yang Yang](http://yangy.org/), [Prof. Zuozhu Liu](https://scholar.google.com/citations?user=h602wLIAAAAJ&hl) at Zhejiang University.
 
 
 
@@ -32,7 +32,7 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 ## Honors
 
-- Yunni and Maxine Pao Memorial Scholarship (2023)
+- Yunni and Maxine Pao Memorial Scholarship from UIUC (2023)
 
 - Zhejiang University Scholarship - First Prize $\times$ 2 (2021, 2022)
 
@@ -58,6 +58,12 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 ## Experience
 
+> **Research**: Self-supervised Point Cloud Sampling
+>
+> Supervisor: [Shutao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) *Professor, Tsinghua University*; [Tao Dai](https://csse.szu.edu.cn/pages/user/index?id=1204) *Assistant Professor, Shenzhen University*
+>
+> Time: May 2023 - Aug 2023
+
 > **Research**: Personalized Model - Precise Alzheimer's Genetic Discovery
 >
 > Supervisor: [Haohan Wang](https://haohanwang.github.io/) *Assistant Professor, UIUC* 
@@ -72,7 +78,7 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 > **Research**: Unsupervised Pre-training Improves Tooth Segmentation in 3-Dimensional Intraoral Mesh Scans
 >
-> Supervisor: [Zuozhu Liu](https://scholar.google.com/citations?user=h602wLIAAAAJ&hl=en&oi=ao) *Member, IEEE* 
+> Supervisor: [Zuozhu Liu](https://scholar.google.com/citations?user=h602wLIAAAAJ&hl=en&oi=ao) *Assistant Professor, Zhejiang University* 
 >
 > Time: Jun. 2021 - Mar. 2022
 
