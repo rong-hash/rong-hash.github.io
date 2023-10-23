@@ -16,7 +16,7 @@ Hi! I am a junior year student of B.S. Electrical and Computer Engineering at Zh
 
 ## Publication
 
-**[Pub1]** **Zhirong Chen**, Haohan Wang. [Heteroscedastic Personalized Regression Unveils Genetic Basis of Alzheimer’s Disease Stratified by Cognitive Level](https://rong-hash.github.io/hetpr). Submitted to *PLOS Computational Biology*.
+**[Pub1]** **Zhirong Chen**, Caleb Ellington, Eric Xing, Haohan Wang. [Heteroscedastic Personalized Regression Unveils Genetic Basis of Alzheimer’s Disease Stratified by Cognitive Level](https://rong-hash.github.io/hetpr). Submitted to *RECOMB 2024*.
 
 
 
