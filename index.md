@@ -7,7 +7,7 @@ usemathjax: true
 
 <img class="profile-picture" src="img/me.jpg" >
 
-Hi! I am a junior year student of B.S. Electrical and Computer Engineering at Zhejiang University, China (GPA: 3.92/4, Rank: 3/64). I'm also an exchange student of Computer Engineering at UIUC, USA (GPA: 4/4). I'm fortunately supervised by [Prof. Ying Wang](https://wangying-ict.github.io/) at ICT (Institute of Computing Technology, Chinese Academy of Science). I also collaborate with [Prof. Haohan Wang](https://haohanwang.github.io/) at UIUC, [Prof. Shutao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) at Tsinghua University, [Prof. Tao Dai](https://csse.szu.edu.cn/pages/user/index?id=1204) at Shenzhen University and [Prof. Yang Yang](http://yangy.org/), [Prof. Zuozhu Liu](https://scholar.google.com/citations?user=h602wLIAAAAJ&hl) at Zhejiang University.
+Hi! I am a senior year student of B.S. Electrical and Computer Engineering at Zhejiang University, China (GPA: 3.92/4, Rank: 3/64). I'm also an exchange student of Computer Engineering at UIUC, USA (GPA: 4/4). I'm fortunately supervised by [Prof. Ying Wang](https://wangying-ict.github.io/) at ICT (Institute of Computing Technology, Chinese Academy of Science). I also collaborate with [Prof. Haohan Wang](https://haohanwang.github.io/) at UIUC, [Prof. Shutao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) at Tsinghua University, [Prof. Tao Dai](https://csse.szu.edu.cn/pages/user/index?id=1204) at Shenzhen University and [Prof. Yang Yang](http://yangy.org/), [Prof. Zuozhu Liu](https://scholar.google.com/citations?user=h602wLIAAAAJ&hl) at Zhejiang University.
 
 
 
@@ -16,7 +16,9 @@ Hi! I am a junior year student of B.S. Electrical and Computer Engineering at Zh
 
 ## Publication
 
-**[Pub1]** **Zhirong Chen**, Caleb Ellington, Eric Xing, Haohan Wang. [Heteroscedastic Personalized Regression Unveils Genetic Basis of Alzheimer’s Disease Stratified by Cognitive Level](https://rong-hash.github.io/hetpr). Submitted to *RECOMB 2024*.
+**[Pub1]** **Zhirong Chen**, Caleb Ellington, Eric Xing, Haohan Wang. [Heteroscedastic Personalized Regression Unveils Genetic Basis of Alzheimer’s Disease Stratified by Cognitive Level](https://rong-hash.github.io/hetpr). Submitted to *ISMB 2024 (CCF B)*.
+
+**[Pub2]** Two papers submitted to *DAC 2024 (CCF A)*. Double-blind review.
 
 
 
@@ -24,23 +26,25 @@ Hi! I am a junior year student of B.S. Electrical and Computer Engineering at Zh
 
 Skill | Capability
 -----|-------
-Programming | Python, C, C++, X86, SQL, MongoDB, JavaScript, SystemVerilog
-Tool | Pytorch, Quartus, FPGA, Latex, PLINK, react, MySQL Workbench, Git
+Programming | Python, C, C++, CUDA, X86, SQL, MongoDB, JavaScript, System Verilog, Verilog
+Tool | Pytorch, Quartus, VCS, Nsys, FPGA, Latex, PLINK, react, MySQL Workbench, Git, Docker
 Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 
 
 ## Honors
 
-- Yunni and Maxine Pao Memorial Scholarship from UIUC (2023)
+- Yunni and Maxine Pao Memorial Scholarship from UIUC, $3000 (2023)
 
-- Zhejiang University Scholarship - First Prize $\times$ 2 (2021, 2022)
+- Zhejiang University Scholarship - First Prize $\times$ 3 (2021, 2022, 2023)
 
-- Scholarship from the government of Zhejiang Province $\times$ 2 (2021, 2022)
+- Scholarship from the government of Zhejiang Province $\times$ 3 (2021, 2022, 2023)
 
-- ZJUI Academic Scholarship - Second Prize $\times$ 2 (2021, 2022)
+- ZJUI Academic Scholarship - Second Prize $\times$ 3 (2021, 2022, 2023)
 
-- Outstanding Students of Zhejiang University $\times$ 2 (2021, 2022)
+- Outstanding Students of Zhejiang University $\times$ 3 (2021, 2022, 2023)
+
+- Student Innovation and Entrepreneurship Award $\times$ 2 (2022, 2023)
 
 - Outstanding Individual in Community Survice of Zhejiang University (2021)
 
@@ -58,6 +62,12 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 ## Experience
 
+> **Research**: Chipgpt: Towards Training Hardware Generation Large Language Model
+>
+> Supervisor: [Ying Wang](https://wangying-ict.github.io/) *Professor, Institute of Computing Technology, Chinese Academy of Science*
+>
+> Time: Aug 2023 - Nov 2023
+
 > **Research**: Self-supervised Point Cloud Sampling
 >
 > Supervisor: [Shutao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) *Professor, Tsinghua University*; [Tao Dai](https://csse.szu.edu.cn/pages/user/index?id=1204) *Assistant Professor, Shenzhen University*
@@ -68,7 +78,7 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 >
 > Supervisor: [Haohan Wang](https://haohanwang.github.io/) *Assistant Professor, UIUC* 
 >
-> Time: Dec. 2022 - Present
+> Time: Dec. 2022 - Nov. 2023
 
 > **Research**: [ShapeNet: Shapelet Graph Attention Network](https://github.com/rong-hash/AQOURSNet)
 >
