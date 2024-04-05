@@ -7,7 +7,7 @@ usemathjax: true
 
 <img class="profile-picture" src="img/me.jpg" >
 
-Hi! I am a senior year student of B.S. Electrical and Computer Engineering at Zhejiang University, China (GPA: 3.92/4, Rank: 3/64). I'm also an exchange student of Computer Engineering at UIUC, USA (GPA: 4/4). I'm fortunately supervised by [Prof. Ying Wang](https://wangying-ict.github.io/) at ICT (Institute of Computing Technology, Chinese Academy of Science). I also collaborate with [Prof. Haohan Wang](https://haohanwang.github.io/) at UIUC, [Prof. Shutao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) at Tsinghua University, [Prof. Tao Dai](https://csse.szu.edu.cn/pages/user/index?id=1204) at Shenzhen University and [Prof. Yang Yang](http://yangy.org/), [Prof. Zuozhu Liu](https://scholar.google.com/citations?user=h602wLIAAAAJ&hl) at Zhejiang University.
+Hi! I am a senior year student of B.S. Electrical and Computer Engineering at Zhejiang University, China (GPA: 3.92/4, Rank: 3/64). I'm also an exchange student of Computer Engineering at UIUC, USA (GPA: 4/4). I'm fortunately supervised by [Prof. Ying Wang](https://wangying-ict.github.io/) at ICT (Institute of Computing Technology, Chinese Academy of Science). 
 
 
 
@@ -18,7 +18,7 @@ Hi! I am a senior year student of B.S. Electrical and Computer Engineering at Zh
 
 **[Pub1]** **Zhirong Chen**, Caleb Ellington, Eric Xing, Haohan Wang. [Heteroscedastic Personalized Regression Unveils Genetic Basis of Alzheimer’s Disease Stratified by Cognitive Level](https://rong-hash.github.io/hetpr). Submitted to *ISMB 2024 (CCF B)*.
 
-**[Pub2]** Two papers submitted to *DAC 2024 (CCF A)*. Double-blind review.
+**[Pub2]** Kaiyan Chang, Kun Wang, Nan Yang, Ying Wang, Dantong Jin, Wenlong Zhu, **Zhirong Chen**, Cangyuan Li, Hao Yan, Yunhao Zhou, Zhuoliang Zhao, Yuan Cheng, Yudong Pan, Yiqi Liu, Mengdi Wang, Shengwen Liang, yinhe han, Huawei Li and Xiaowei Li. Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework
 
 
 
@@ -33,6 +33,8 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 
 ## Honors
+
+- Outstanding Graduate in Zhejiang Province (2024)
 
 - Yunni and Maxine Pao Memorial Scholarship from UIUC, $3000 (2023)
 
@@ -61,6 +63,12 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 
 ## Experience
+
+> **Intern**: Develop the recommendation system
+> 
+> Company: Bytedance, Tiktok
+>
+> Time: Jan 2024 - Apr 2024
 
 > **Research**: Chipgpt: Towards Training Hardware Generation Large Language Model
 >
