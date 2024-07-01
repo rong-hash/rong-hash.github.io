@@ -16,11 +16,11 @@ In 2024, I spent a wonderful spring at Bytedance working on Tiktok recommendatio
 
 ## Publication
 
-**[Pub1]** **Zhirong Chen**, Caleb Ellington, Eric Xing, Haohan Wang. [Heteroscedastic Personalized Regression Unveils Genetic Basis of Alzheimer’s Disease Stratified by Cognitive Level](https://rong-hash.github.io/hetpr). Submitted to *ISMB 2024 (CCF B)*.
+**[Pub1]** **Zhirong Chen**, Caleb Ellington, Eric Xing, Haohan Wang. Heteroscedastic Personalized Regression Unveils Genetic Basis of Alzheimer’s Disease Stratified by Cognitive Level. 
 
-**[Pub2]** Kaiyan Chang, Kun Wang, Nan Yang, Ying Wang, Dantong Jin, Wenlong Zhu, **Zhirong Chen**, Cangyuan Li, Hao Yan, Yunhao Zhou, Zhuoliang Zhao, Yuan Cheng, Yudong Pan, Yiqi Liu, Mengdi Wang, Shengwen Liang, yinhe han, Huawei Li and Xiaowei Li. Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework
+**[Pub2]** Kaiyan Chang, Kun Wang, Nan Yang, Ying Wang, Dantong Jin, Wenlong Zhu, **Zhirong Chen**, Cangyuan Li, Hao Yan, Yunhao Zhou, Zhuoliang Zhao, Yuan Cheng, Yudong Pan, Yiqi Liu, Mengdi Wang, Shengwen Liang, yinhe han, Huawei Li and Xiaowei Li. Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework. *DAC 2024*
 
-**[Pub3]** Kaiyan Chang, **Zhirong Chen**, Yunhao Zhou, Wenlong Zhu, Kun Wang, Haobo Xu, Cangyuan Li, Mengdi Wang, Shengwen Liang, Huawei Li, Yinhe Han and Ying Wang. Natural language is not enough: Benchmarking multi-modal generative AI for Verilog generation 
+**[Pub3]** Kaiyan Chang, **Zhirong Chen**, Yunhao Zhou, Wenlong Zhu, Kun Wang, Haobo Xu, Cangyuan Li, Mengdi Wang, Shengwen Liang, Huawei Li, Yinhe Han and Ying Wang. Natural language is not enough: Benchmarking multi-modal generative AI for Verilog generation. *ICCAD 2024*
 
 
 
