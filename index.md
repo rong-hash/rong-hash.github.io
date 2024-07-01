@@ -74,7 +74,7 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 >
 > Supervisor: [Ying Wang](https://wangying-ict.github.io/) *Professor, Institute of Computing Technology, Chinese Academy of Science*
 >
-> Time: Aug 2023 - Nov 2023
+> Time: Aug 2023 - Now
 
 > **Research**: Self-supervised Point Cloud Sampling
 >
