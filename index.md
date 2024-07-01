@@ -20,6 +20,8 @@ In 2024, I spent a wonderful spring at Bytedance working on Tiktok recommendatio
 
 **[Pub2]** Kaiyan Chang, Kun Wang, Nan Yang, Ying Wang, Dantong Jin, Wenlong Zhu, **Zhirong Chen**, Cangyuan Li, Hao Yan, Yunhao Zhou, Zhuoliang Zhao, Yuan Cheng, Yudong Pan, Yiqi Liu, Mengdi Wang, Shengwen Liang, yinhe han, Huawei Li and Xiaowei Li. Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework
 
+**[Pub3]** Kaiyan Chang, **Zhirong Chen**, Yunhao Zhou, Wenlong Zhu, Kun Wang, Haobo Xu, Cangyuan Li, Mengdi Wang, Shengwen Liang, Huawei Li, Yinhe Han and Ying Wang. Natural language is not enough: Benchmarking multi-modal generative AI for Verilog generation 
+
 
 
 ## Skills
