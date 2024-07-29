@@ -36,6 +36,8 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 ## Honors
 
+- Graduate at UIUC with Highest Honors (2024)
+
 - Outstanding Graduate in Zhejiang Province (2024)
 
 - Yunni and Maxine Pao Memorial Scholarship from UIUC, $3000 (2023)
