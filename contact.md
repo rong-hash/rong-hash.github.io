@@ -50,5 +50,5 @@ is_contact: true
 >
 > Previously collaborate with him on Automated Card Dispenser. Our project wins the Most Commercializable Project award in the graduation project at senior design of UIUC.
 >
-> [Web Link](https://moomoohorse.github.io/)
+> [Web Link](https://www.linkedin.com/in/xiaoyang-c-a36863204/)
 
