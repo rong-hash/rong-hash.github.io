@@ -48,7 +48,7 @@ is_contact: true
 
 > Xiaoyang Chu
 >
-> Previously collaborate with him on Automated Card Dispenser. Our project wins the best commertialized award in the graduation project at UIUC.
+> Previously collaborate with him on Automated Card Dispenser. Our project wins the Most Commercializable Project award in the graduation project at senior design of UIUC.
 >
 > [Web Link](https://moomoohorse.github.io/)
 
