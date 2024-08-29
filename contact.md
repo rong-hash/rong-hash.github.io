@@ -15,11 +15,11 @@ is_contact: true
 
 ## Mailing Address
 
-> 1010 W University Ave 
+> University of the Chinese Academy of Sciences, Yanqi Lake Campus
 >
-> Urbana
+> Beijing
 >
-> United States
+> China
 
 ---
 
@@ -34,23 +34,21 @@ is_contact: true
 >
 > [Web Link](https://erkaiyublog.github.io/)
 
-> Hao Ren
->
-> Amazing operating system engineer, currently work on FPGA project with him
->
-> [Web Link](https://moomoohorse.com/home/)
-
-
-
-> Zicheng Ma
->
-> Previously collaborate with him on Operating System, Crime Map, MCM
->
-> [Web Link](https://zichengma.github.io/)
-
-
 > Ziyuan Chen
 >
 > Previously collaborate with him on Operating System, MCM, Medical Database, Graph Machine Learning, community service, currently work with him on Algorithm
 >
 > [Web Link](https://AllenHeartcore.github.io)
+
+> Hao Ren
+>
+> Previously collaborate with him on RISC-V CPU design and FPGA game design.
+>
+> [Web Link](https://moomoohorse.github.io/)
+
+> Xiaoyang Chu
+>
+> Previously collaborate with him on Automated Card Dispenser. Our project wins the best commertialized award in the graduation project at UIUC.
+>
+> [Web Link](https://moomoohorse.github.io/)
+

@@ -5,6 +5,12 @@ is_project: true
 
 # Project
 
+> [**Autonomous Card Dispenser**](https://github.com/rong-hash/autonomous_card_dispenser)
+>
+> My senior design at UIUC. The project wins the Most Commercializable Project among about fifty projects.
+>
+> [Demo](https://www.bilibili.com/video/BV1Um421T7p9)
+
 ## Operating System
 
 > [**Zinix**](https://rong-hash.github.io/popup)

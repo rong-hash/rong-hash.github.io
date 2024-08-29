@@ -9,7 +9,7 @@ usemathjax: true
 
 Hi! I am a senior year student of B.S. Electrical and Computer Engineering at Zhejiang University, China (GPA: 3.92/4, Rank: 3/64). I'm also an exchange student of Computer Engineering at UIUC, USA (GPA: 4/4). I'm fortunately supervised by [Prof. Ying Wang](https://wangying-ict.github.io/) at ICT (Institute of Computing Technology, Chinese Academy of Science).  
 
-In 2024, I spent a wonderful spring at Bytedance working on Tiktok recommendation system refactoring. I brought engineer and business metrics improvement on multiple Tiktok Apps.
+In 2024, I spent a wonderful spring at Tiktok working on Tiktok recommendation system refactoring. I brought engineer and business metrics improvement on multiple Tiktok Apps.
 
 
 
@@ -29,7 +29,7 @@ In 2024, I spent a wonderful spring at Bytedance working on Tiktok recommendatio
 Skill | Capability
 -----|-------
 Programming | Python, C, C++, CUDA, X86, SQL, MongoDB, JavaScript, System Verilog, Verilog
-Tool | Pytorch, Quartus, VCS, Nsys, FPGA, Latex, PLINK, react, MySQL Workbench, Git, Docker
+Tool | Pytorch, Quartus, VCS, Nsys, FPGA, Latex, PLINK, react, MySQL Workbench, Git, Docker, CMake
 Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 
@@ -65,44 +65,36 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 - First Prize (*Top 5%*) in 2022 CMC (Chinese Mathematics Competition) 
 
+  
+
 
 ## Experience
 
 > **Intern**: Develop the recommendation system
 > 
-> Company: Bytedance, Tiktok
+> Company: Tiktok
 >
 > Time: Jan 2024 - Apr 2024
+>
+> Contribution: I mainly worked on the DAG refactoring of the Tiktok recommendation system. I brought several engineer metrics gain and business metrics gain and finally got the return offer.
 
 > **Research**: Chipgpt: Towards Training Hardware Generation Large Language Model
 >
 > Supervisor: [Ying Wang](https://wangying-ict.github.io/) *Professor, Institute of Computing Technology, Chinese Academy of Science*
 >
 > Time: Aug 2023 - Now
-
-> **Research**: Self-supervised Point Cloud Sampling
 >
-> Supervisor: [Shutao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm) *Professor, Tsinghua University*; [Tao Dai](https://csse.szu.edu.cn/pages/user/index?id=1204) *Assistant Professor, Shenzhen University*
->
-> Time: May 2023 - Aug 2023
+> Contribution: I mainly work on the hardware data augmentation framework and technology of finetuning the large language model on chip design tasks. I have published 2 papers in DAC and ICCAD until now.
 
 > **Research**: Personalized Model - Precise Alzheimer's Genetic Discovery
 >
 > Supervisor: [Haohan Wang](https://haohanwang.github.io/) *Assistant Professor, UIUC* 
 >
 > Time: Dec. 2022 - Nov. 2023
+>
+> Contribution: Develop the personalized algorithm on recognizing the Alzheimer's diseases related genes.
 
-> **Research**: [ShapeNet: Shapelet Graph Attention Network](https://github.com/rong-hash/AQOURSNet)
->
-> Supervisor: [Yang Yang](http://yangy.org/) *Associate Professor, Zhejiang University* 
->
-> Time: May. 2022 - Aug. 2022
 
-> **Research**: Unsupervised Pre-training Improves Tooth Segmentation in 3-Dimensional Intraoral Mesh Scans
->
-> Supervisor: [Zuozhu Liu](https://scholar.google.com/citations?user=h602wLIAAAAJ&hl=en&oi=ao) *Assistant Professor, Zhejiang University* 
->
-> Time: Jun. 2021 - Mar. 2022
 
 
 
