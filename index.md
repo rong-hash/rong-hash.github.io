@@ -24,13 +24,6 @@ In 2024, I spent a wonderful spring at Tiktok working on Tiktok recommendation s
 
 
 
-## Skills
-
-Skill | Capability
------|-------
-Programming | Python, C, C++, CUDA, X86, SQL, MongoDB, JavaScript, System Verilog, Verilog
-Tool | Pytorch, Quartus, VCS, Nsys, FPGA, Latex, PLINK, react, MySQL Workbench, Git, Docker, CMake
-Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 
 
@@ -46,17 +39,6 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 
 - Scholarship from the government of Zhejiang Province $\times$ 3 (2021, 2022, 2023)
 
-- ZJUI Academic Scholarship - Second Prize $\times$ 3 (2021, 2022, 2023)
-
-- Outstanding Students of Zhejiang University $\times$ 3 (2021, 2022, 2023)
-
-- Student Innovation and Entrepreneurship Award $\times$ 2 (2022, 2023)
-
-- Outstanding Individual in Community Survice of Zhejiang University (2021)
-
-- Outstanding Summer Research in Zhejiang University
-
-- UIUC Dean's List (2021, 2022, 2023)
 
 
 ## Competitions
@@ -66,33 +48,6 @@ Language | Mandarin, English: TOEFL 109 (R: 30, L: 29, S: 22, W: 28)
 - First Prize (*Top 5%*) in 2022 CMC (Chinese Mathematics Competition) 
 
   
-
-
-## Experience
-
-> **Intern**: Develop the recommendation system
-> 
-> Company: Tiktok
->
-> Time: Jan 2024 - Apr 2024
->
-> Contribution: I mainly worked on the DAG refactoring of the Tiktok recommendation system. I brought several engineer metrics gain and business metrics gain and finally got the return offer.
-
-> **Research**: Chipgpt: Towards Training Hardware Generation Large Language Model
->
-> Supervisor: [Ying Wang](https://wangying-ict.github.io/) *Professor, Institute of Computing Technology, Chinese Academy of Science*
->
-> Time: Aug 2023 - Now
->
-> Contribution: I mainly work on the hardware data augmentation framework and technology of finetuning the large language model on chip design tasks. I have published 2 papers in DAC and ICCAD until now.
-
-> **Research**: Personalized Model - Precise Alzheimer's Genetic Discovery
->
-> Supervisor: [Haohan Wang](https://haohanwang.github.io/) *Assistant Professor, UIUC* 
->
-> Time: Dec. 2022 - Nov. 2023
->
-> Contribution: Develop the personalized algorithm on recognizing the Alzheimer's diseases related genes.
 
 
 
