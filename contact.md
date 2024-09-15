@@ -5,7 +5,7 @@ is_contact: true
 
 ## Contact
 
-> Email: [chenzhirong](mailto:chenzhirong24@mails.ucas.ac.cn)
+> Email: [chenzhirong24s@ict.ac.cn](mailto:chenzhirong24s@ict.ac.cn)
 >
 > Phone: [+86-17727406580](+86-17727406580)
 >
