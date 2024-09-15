@@ -15,7 +15,7 @@ is_contact: true
 
 ## Mailing Address
 
-> University of the Chinese Academy of Sciences, Yanqi Lake Campus
+> University of the Chinese Academy of Sciences, Yanqihu Campus
 >
 > Beijing
 >
