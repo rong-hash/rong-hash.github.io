@@ -5,7 +5,7 @@ is_contact: true
 
 ## Contact
 
-> Email: [zhirong4@illinois.edu](mailto:zhirong4@illinois.edu)
+> Email: [chenzhirong](mailto:chenzhirong24@mails.ucas.ac.cn)
 >
 > Phone: [+86-17727406580](+86-17727406580)
 >
