@@ -47,12 +47,12 @@ In 2024, I spent a wonderful spring at Tiktok working on Tiktok recommendation s
 
 - First Prize (*Top 5%*) in 2022 CMC (Chinese Mathematics Competition) 
 
-
+<!-- 
 <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?zhirong1204"
-border="0" alt="Website Hit Counters"></a>
-<br><a href="https://www.easycounter.com/">Hit Counter</a>
-  
+border="0" alt="Website Hit Counters"></a> -->
+
+
 
 
 
