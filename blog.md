@@ -30,6 +30,6 @@ is_blog: true
 > A note about combine tmux and docker together
 
 
-> [**cuda optimization**](https://rong-hash.github.io)
+> [**cuda optimization**](https://rong-hash.github.io/cuda_inference)
 >
 > A note about how to optimize the cuda inference code
