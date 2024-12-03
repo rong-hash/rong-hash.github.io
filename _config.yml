@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: G-Q11NJZT817
 
 footer: yes
-footer_url: "https://github.com/rong-hash/rong-hash.github.io"
-footer_text: "Page design by Zhirong Chen"
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
 
 favicon: true
 favicon_location: "img/tree.ico"
