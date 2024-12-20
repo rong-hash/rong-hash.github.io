@@ -7,9 +7,9 @@ is_contact: true
 
 > Email: [chenzhirong24s@ict.ac.cn](mailto:chenzhirong24s@ict.ac.cn)
 >
-> Phone: [+86-17727406580](+86-17727406580)
->
 > Github: [rong-hash](https://github.com/rong-hash)
+>
+> LinkedIn: [ZhiRong Chen](https://www.linkedin.com/in/zhirong-chen-ict)
 
 ---
 
