@@ -7,7 +7,7 @@ usemathjax: true
 
 <img class="profile-picture" src="img/me.jpg" >
 
-Hi! I am a first year master student of Computer Science at Institute of Computing Technology, Chinese Academy of Sciences, China. I'm fortunately supervised by [Prof. Ying Wang](https://wangying-ict.github.io/). Previously I got my bachelor degree at Zhejiang University and UIUC in 2024. My research interest is in LLM for hardware design right now.
+Hi! I am a first year master student of Computer Science at Institute of Computing Technology, Chinese Academy of Sciences, China. I'm fortunately supervised by [Prof. Ying Wang](https://wangying-ict.github.io/). Previously I got my bachelor degree at Zhejiang University and UIUC in 2024. My research interest is in LLM for hardware design right now, feel free to check our models in [huggingface](https://huggingface.co/aichipdesign).
 
 In 2024, I spent a wonderful spring at Tiktok working on Tiktok recommendation system refactoring. I brought engineering and business metrics improvement to multiple TikTok apps.
 
