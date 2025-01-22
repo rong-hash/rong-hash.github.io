@@ -13,6 +13,13 @@ is_project: true
 >
 > [Demo](https://www.bilibili.com/video/BV1Um421T7p9)
 
+## CPU
+
+> [**CRC_Chip**](https://github.com/rong-hash/CRC_Chip)
+>
+> A RISCV-32i Pipeline CPU Processor
+
+
 ## Operating System
 
 > [**Zinix**](https://rong-hash.github.io/popup)
