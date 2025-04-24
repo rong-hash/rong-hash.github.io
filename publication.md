@@ -1,5 +1,13 @@
 # Publication
 
+> [A data-centric chip design agent framework for Verilog code generation](https://dl.acm.org/doi/10.1145/3727980)
+>
+> Kaiyan Chang, Wenlong Zhu, Kun Wang, Xinyang He, Nan Yang, **Zhirong Chen**, Dantong Jin, Cangyuan Li, Yunhao Zhou, Hao Yan, Zhuoliang Zhao, Yuan Cheng, Mengdi Wang, Shengwen Liang, Yinhe Han, Xiaowei Li, Huawei Li, Ying Wang
+>
+> Accepted by TODAES
+
+
+
 > [Natural language is not enough: Benchmarking multi-modal generative AI for Verilog generation](https://arxiv.org/abs/2407.08473)
 >
 > Kaiyan Chang, **Zhirong Chen**, Yunhao Zhou, Wenlong Zhu, kun wang, Haobo Xu, Cangyuan Li, Mengdi Wang, Shengwen Liang, Huawei Li, yinhe han and Ying Wang
@@ -10,7 +18,7 @@
 >
 > **Zhirong Chen**, Haohan Wang
 >
-> Submitted to ISMB 2024
+> BioRxiv
 
 
 > [Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework](https://arxiv.org/abs/2403.11202)

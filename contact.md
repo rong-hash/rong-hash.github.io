@@ -9,7 +9,9 @@ is_contact: true
 >
 > Github: [rong-hash](https://github.com/rong-hash)
 >
-> LinkedIn: [ZhiRong Chen](https://www.linkedin.com/in/zhirong-chen-ict)
+> LinkedIn: [Zhirong Chen](https://www.linkedin.com/in/zhirong-chen-ict)
+>
+> Google Scholar: [Zhirong Chen](https://scholar.google.com/citations?hl=en&user=zChnvKwAAAAJ)
 
 ---
 

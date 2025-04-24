@@ -13,14 +13,19 @@ In 2024, I spent a wonderful spring at Tiktok working on Tiktok recommendation s
 
 
 
-
 ## Publication
 
-**[Pub1]** **Zhirong Chen**, Caleb Ellington, Eric Xing, Haohan Wang. Heteroscedastic Personalized Regression Unveils Genetic Basis of Alzheimer’s Disease Stratified by Cognitive Level. 
+**[Pub1]** **Zhirong Chen**, Caleb Ellington, Eric Xing, Haohan Wang. Heteroscedastic Personalized Regression Unveils Genetic Basis of Alzheimer’s Disease Stratified by Cognitive Level. *BioRxiv*
 
 **[Pub2]** Kaiyan Chang, Kun Wang, Nan Yang, Ying Wang, Dantong Jin, Wenlong Zhu, **Zhirong Chen**, Cangyuan Li, Hao Yan, Yunhao Zhou, Zhuoliang Zhao, Yuan Cheng, Yudong Pan, Yiqi Liu, Mengdi Wang, Shengwen Liang, yinhe han, Huawei Li and Xiaowei Li. Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework. *DAC 2024*
 
 **[Pub3]** Kaiyan Chang, **Zhirong Chen**, Yunhao Zhou, Wenlong Zhu, Kun Wang, Haobo Xu, Cangyuan Li, Mengdi Wang, Shengwen Liang, Huawei Li, Yinhe Han and Ying Wang. Natural language is not enough: Benchmarking multi-modal generative AI for Verilog generation. *ICCAD 2024*
+
+**[Pub4]** Kaiyan Chang, Wenlong Zhu, Kun Wang, Xinyang He, Nan Yang, **Zhirong Chen**, Dantong Jin, Cangyuan Li, Yunhao Zhou, Hao Yan, Zhuoliang Zhao, Yuan Cheng, Mengdi Wang, Shengwen Liang, Yinhe Han, Xiaowei Li, Huawei Li, Ying Wang. A data-centric chip design agent framework for Verilog code generation. *TODAES*
+
+
+
+
 
 
 
