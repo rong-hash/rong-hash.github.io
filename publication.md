@@ -10,7 +10,7 @@
 >
 > Accepted by ACL 2026 Main Conference
 
-> Large Processor Chip Model
+> [Large Processor Chip Model](https://arxiv.org/abs/2506.02929)
 >
 > Kaiyan Chang\*, Mingzhi Chen\*, Yunji Chen\*, **Zhirong Chen\***, et al. (\* Equal Contribution)
 >

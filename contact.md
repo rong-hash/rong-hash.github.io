@@ -17,7 +17,7 @@ is_contact: true
 
 ## Mailing Address
 
-> University of the Chinese Academy of Sciences, Yanqihu Campus
+> University of the Chinese Academy of Sciences, Zhongguancun Campus
 >
 > Beijing
 >
