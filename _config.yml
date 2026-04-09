@@ -20,7 +20,7 @@ sass:
 
 nav:
  - name: "Resume"
-   link: "CV.pdf"
+   link: "resume.pdf"
  - name: "Publication"
    link: "hetpr"
    link: "publication"
