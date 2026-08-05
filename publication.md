@@ -1,10 +1,14 @@
 # Publication
 
+> [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653)
+>
+> Technical Report, Main Contributor
+
 > [Kimi K2.5: Visual Agentic Intelligence](https://arxiv.org/abs/2602.02276)
 >
 > Technical Report, Main Contributor
 
-> [ChipSeek: Optimizing Verilog Generation via EDA-Integrated Reinforcement Learning](https://arxiv.org/abs/2507.04736)
+> [ChipSeek: Optimizing Verilog Generation via EDA-Integrated Reinforcement Learning](https://aclanthology.org/2026.acl-long.1154/)
 >
 > **Zhirong Chen**, Kaiyan Chang, Zhuolin Li, Cangyuan Li, Xinyang He, Chujie Chen, Mengdi Wang, Haobo Xu, Yinhe Han, Huawei Li, Ying Wang
 >
@@ -36,7 +40,7 @@
 
 
 
-> [Natural language is not enough: Benchmarking multi-modal generative AI for Verilog generation](https://arxiv.org/abs/2407.08473)
+> [Natural language is not enough: Benchmarking multi-modal generative AI for Verilog generation](https://dl.acm.org/doi/10.1145/3676536.3676679)
 >
 > Kaiyan Chang, **Zhirong Chen**, Yunhao Zhou, Wenlong Zhu, kun wang, Haobo Xu, Cangyuan Li, Mengdi Wang, Shengwen Liang, Huawei Li, yinhe han and Ying Wang
 >
@@ -49,7 +53,7 @@
 > BioRxiv
 
 
-> [Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework](https://arxiv.org/abs/2403.11202)
+> [Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework](https://dl.acm.org/doi/10.1145/3649329.3657356)
 >
 > Kaiyan Chang, Kun Wang, Nan Yang, Ying Wang, Dantong Jin, Wenlong Zhu, **Zhirong Chen**, Cangyuan Li, Hao Yan, Yunhao Zhou, Zhuoliang Zhao, Yuan Cheng, Yudong Pan, Yiqi Liu, Mengdi Wang, Shengwen Liang, Yinhe Han, Huawei Li and Xiaowei Li
 >
